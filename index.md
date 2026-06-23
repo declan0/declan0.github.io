@@ -3,9 +3,10 @@
 [LinkedIn](https://www.linkedin.com/in/declan-o-reilly-98240716b/)
 
 
-I am a double major in Music and Economics at Grinnell College
-and I have and I have a special interest in data science and criminology.
-I also run for the College's Track and Field and Cross Country Teams and 
-hope to pursue a job in economic consulting or a masters in CS after I graduate in the spring of '22.
+I graduated with a degree in economics and I now work in economic consulting where I study firm behavior and antitrust economics. 
+I'm passionate about using econmoics to make our complicated world simpler. I have a morbid fascination with firm power and research
+interests in multimarket contact, tacit coordination, algrithmic pricing, and how technology in the hands of firms influence our everyday 
+lives.
+
 
 
