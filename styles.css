@@ -1,5 +1,5 @@
 :root {
-  --paper: #fffdf3;
+  --paper: #fff;
   --paper-deep: #fcf6aa;
   --ink: #0b0034;
   --violet: #3e07b2;
@@ -23,9 +23,7 @@ html {
 body {
   margin: 0;
   color: var(--ink);
-  background:
-    radial-gradient(circle at 75% 10%, rgba(245, 172, 7, 0.08), transparent 28rem),
-    var(--paper);
+  background: var(--paper);
   font-family: var(--sans);
   font-size: 16px;
   line-height: 1.65;
@@ -133,8 +131,17 @@ a {
 .about-body {
   display: grid;
   padding-top: clamp(2.4rem, 5vw, 4.5rem);
-  grid-template-columns: minmax(0, 1fr) minmax(280px, 0.48fr);
-  gap: clamp(3rem, 10vw, 9rem);
+  grid-template-columns: minmax(220px, 0.68fr) minmax(0, 1.35fr) minmax(230px, 0.48fr);
+  gap: clamp(2rem, 5vw, 4.5rem);
+}
+
+.headshot {
+  display: block;
+  width: 100%;
+  max-height: 430px;
+  border: 1px solid var(--ink);
+  object-fit: cover;
+  object-position: center 35%;
 }
 
 .about-content {
